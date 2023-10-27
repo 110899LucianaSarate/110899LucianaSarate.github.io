@@ -1,0 +1,11 @@
+Buenas tardes, espero que estén teniendo un excelente fin de semana. La clase pasada olvidé mencionarles que ya está definido el primer trabajo práctico el cual consiste en la realización de su propio CV utilizando HTML, Javascript (alerts + consola), CSS (+Bootstrap). Debe ser responsivo incluyendo versiones para dispositivos mobiles e incluir links a secciones dentro del documento (marcadores). La fecha limite de entrega es el jueves siguiente al parcial, es decir, el dia 25/05/2023. Les pido por favor que les avisen a otros compañeros acerca del mismo aunque igualmente lo voy a estar comentando en la próxima clase antes de arrancar el parcial. Que terminen muy bien el fin de semana.
+
+›  2W1-Publicado: 14/05/2023, Piemontesi, Franco Emiliano
+Para aquellos que no encuentran el repositorio con ejemplos de Javascript se los dejo aquí: https://github.com/fpiemontesi/utn-pii-javascript
+
+
+TP 1 - CV Buenas tardes alumnos, adjunto link al github para subir el primer TP. Recuerden que es de caracter OBLIGATORIO e INDIVIDUAL. Deberán crear un sitio web, utilizando CSS, JS y Bootstrap para poder desarrollar un CV personal de cada uno de ustedes. Es importante que todos los archivos html que hayan en el proyecto, sean RESPONSIVOS para que se adapten a todo tipo de pantallas. FECHA LÍMITE DE ENTREGA: 26/05/23 23:59 hs. 2W1 https://classroom.github.com/a/T2Rl8e_e 2W2 https://classroom.github.com/a/_BnrpFWw
+TP 1 - CV Buenas tardes alumnos, adjunto link al github para subir el primer TP. Recuerden que es de caracter OBLIGATORIO e INDIVIDUAL. Deberán crear un sitio web, utilizando CSS, JS y Bootstrap para poder desarrollar un CV personal de cada uno de ustedes. Es importante que todos los archivos html que hayan en el proyecto, sean RESPONSIVOS para que se adapten a todo tipo de pantallas. 
+FECHA LÍMITE DE ENTREGA: 26/05/23 23:59 hs. 
+2W1 https://classroom.github.com/a/T2Rl8e_e
+2W2 https://classroom.github.com/a/_BnrpFWw
